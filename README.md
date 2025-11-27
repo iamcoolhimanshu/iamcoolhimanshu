@@ -16,12 +16,19 @@
 
 ### 📫 Contact
   <p align="center">
-  <a href="mailto:iamcoolhimanshu.9636@gmail.com"><img src="https://cdn.simpleicons.org/gmail/white" height="35"/></a>
+  <a href="mailto:iamcoolhimanshu.9636@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/himanshu146"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"/></a>
+  <a href="https://www.linkedin.com/in/himanshu146" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/06_himanshuu"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="35"/></a>
+  <a href="https://www.instagram.com/06_himanshuu" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" />
+  </a>
 </p>
+
 
 ---
 
