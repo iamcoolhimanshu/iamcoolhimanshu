@@ -34,8 +34,9 @@
 ---
 
 ### 💼 Projects
-- ✈ **Travel Management System** — Spring Boot, MySQL, Security  
-- 🛒 **E-Commerce Shopping Application** — Spring Boot, React, MySQL  
+- ✈ **Travel Management System** —  Java, Spring Boot, MySQL, Security
+- 📝 **Student Management System** - Java, Spring Boot, MySQL, Spring Security
+- 🛒 **E-Commerce Shopping Application** — Java, Spring Boot, React, MySQL  
 - 🎮 **Java Console Based Applications** — Games & Utility Apps  
 *(More projects coming soon...)*
 
