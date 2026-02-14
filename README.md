@@ -13,6 +13,8 @@
 - 🔹 Backend Developer specialized in **Java & Spring Boot**
 - 🔹 Building scalable and secure **REST APIs**
 - 🔹 Strong focus on clean architecture & performance
+- 🔹 Building reliable applications one commit at a time.
+- 🔹 Coding, debugging, and improving every single day.
 
 ---
 
