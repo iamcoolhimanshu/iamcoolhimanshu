@@ -5,10 +5,6 @@
 
 <h3 align="center">💻 Software Developer / Java Developer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu146&label=Profile+Views&color=00F7FF&style=for-the-badge" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -30,13 +26,13 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:iamcoolhimanshu.9636@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF004C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/himanshu146">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/06_himanshuu">
-    <img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
