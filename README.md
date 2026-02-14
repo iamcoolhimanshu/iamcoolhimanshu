@@ -8,7 +8,6 @@
 ---
 
 # 👨‍💻 About Me
-<img align="right" height="170" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 - 🔹 Backend Developer specialized in **Java & Spring Boot**
 - 🔹 Building scalable and secure **REST APIs**
