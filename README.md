@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Himanshu+Vishwakarma;Java+Backend+Developer;Spring+Boot+|+REST+APIs+|+MySQL;Building+Scalable+Backend+Systems+⚡" />
 </h1>
 
-<h3 align="center">💻 Cyberpunk Java Backend Developer | Spring Boot Specialist</h3>
+<h3 align="center">💻 Software Developer / Java Developer | Spring Boot Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=himanshu146&label=Profile+Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
@@ -47,14 +47,14 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/himanshu146/himanshu146/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:iamcoolhimanshu.9636@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff004c?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -69,4 +69,4 @@
 
 ---
 
-<h3 align="center">⚡ Designed with Cyberpunk Hacker Theme ⚡</h3>
+<h3 align="center">⚡ Designed By Himanshu 🤷‍♂️ ⚡</h3>
