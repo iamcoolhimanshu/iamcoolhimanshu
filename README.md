@@ -28,32 +28,6 @@
 
 ---
 
-# 🧠 Featured Projects
-
-### ✈ Travel Management System
-- Spring Boot, Spring Security, MySQL  
-- Role-based authentication & secure REST APIs  
-
-### 📝 Student Management System
-- Full CRUD with validation & layered architecture  
-- Spring Boot + MySQL + Thymeleaf  
-
-### 🛒 E-Commerce Shopping Application
-- Spring Boot (Backend) + React (Frontend)  
-- Cart, Orders, REST APIs, MySQL  
-
-### 🎮 Java Console Applications
-- Mini games & utilities using Core Java  
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshu146/himanshu146/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:iamcoolhimanshu.9636@gmail.com">
